@@ -35,9 +35,9 @@ The main objective of this project is to query the sales data using SQL to answe
 ### SQL Queries for Analysis:
 To answer the aforementioned questions, a series of SQL queries will be written, each addressing a specific question or providing insights from the dataset:
 
-1: Retrieve all columns for sales made on '2022-11-05'.
-2: Retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 10 in the month of Nov-2022.
-3: Calculate the total sales (total_sale) for each category.
+* 1: Retrieve all columns for sales made on '2022-11-05'.
+* 2: Retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 10 in the month of Nov-2022.
+* 3: Calculate the total sales (total_sale) for each category.
 4: Find the average age of customers who purchased items from the 'Beauty' category.
 5: Find all transactions where total_sale is greater than 1000.
 6: Find the total number of transactions (transaction_id) made by each gender in each category.
